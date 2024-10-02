@@ -1,0 +1,1 @@
+This is a simple solution for the challenge "Device Shop" there is other ways to do it but this is mine!
